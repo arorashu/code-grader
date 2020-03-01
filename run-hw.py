@@ -10,7 +10,6 @@ BTB_URL="https://agile.bu.edu/bitbucket/scm/"
 
 
 # Add all the students here or collect them some other way
-# STUDENTS=("andoliv", "anxiaoyu", "aroras", "bradzhao", "braybian","bwqin", "djtrinh", "duoyaozh", "Ec504Student", "edsun", "fengxutu", "hansw", "haoqigu", "haoyangw", "hczhang", "hesteban", "hoangt","huxushan", "hzuo", "jiehuiy", "jingsong", "jinyutn", "kefan29","lchen111", "liben002", "lighao", "lqi25", "mnpache", "mohs","mym1031", "ndwivedi", "noracnr", "NovakBoskov", "pallekc", "panyum","pqx97", "ptaranat", "qguo", "qinghan", "RahulVarki", "sadiela","SeanBrandenburg", "sharithg", "ShiyangHu", "SuliHu", "tingyi97","tzhen", "wdcysl", "wjl1996", "WooyoungCho", "yflin", "YifanWang","ykh", "yqz2019", "yuanwei", "yuhanghe", "yuhaoz", "yuzf","ZeyuSong", "zfchen", "zhou", "zhuch", "ztvince")
 STUDENTS=["stud1","stud2"]
 
 # Put your tests here
